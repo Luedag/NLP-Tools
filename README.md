@@ -1,0 +1,2 @@
+# nlp-tools
+Functions created for quickly performing frequent actions in NLP (tokenization, lemmatization, frequency and tf-idf calculation). They can also be used for quickly creating a summary descriptive report for any corpus.
